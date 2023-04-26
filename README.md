@@ -1,6 +1,6 @@
 ## Currently working with SvelteKit! 😄
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moses-hidalgo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moises-hidalgo)
 ![GitHub followers](https://img.shields.io/github/followers/shiinoya?style=social)
 [![](https://visitcount.itsvg.in/api?id=shiinoya&icon=2&color=7)](https://visitcount.itsvg.in)
 
