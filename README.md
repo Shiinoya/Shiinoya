@@ -15,8 +15,6 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=shiinoya&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)
-<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shiinoya&theme=slateorange&hide_border=false)
 <br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiinoya&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
